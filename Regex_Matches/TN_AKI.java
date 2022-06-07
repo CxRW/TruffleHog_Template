@@ -1,7 +1,6 @@
 
 # Created by Cao Xiaogang (caoxg at yahoo.com)
 #
-#
 
 
 application.none=None
